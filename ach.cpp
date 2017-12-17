@@ -1,1 +1,6 @@
 #include <iostream.h>
+using namespace std;
+int main(){
+  cout<<"Hello world!"<< endl;
+  retun 0;
+}
